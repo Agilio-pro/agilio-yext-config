@@ -1,0 +1,17 @@
+{
+  "$id": "location.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Location-default",
+  "entityType": "location",
+  "fields": [
+    "c_backgroundColor",
+    "c_footerLogo",
+    "c_frontPageServiceList",
+    "c_heroSection",
+    "c_navigation",
+    "c_ourMission",
+    "c_whatToExpect",
+    "c_whyChooseUs"
+  ],
+  "required": []
+}
