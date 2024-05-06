@@ -1,0 +1,51 @@
+{
+  "$id": "contentSchema",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v2",
+  "name": "ContentSchema",
+  "stream": {
+    "source": "content",
+    "fields": [
+      "instagramHandle",
+      "c_footerLogo",
+      "c_coverPhotoHeading",
+      "c_coverPhotoDescription",
+      "c_coverPhoto",
+      "c_backgroundColor",
+      "c_metaDescription",
+      "c_theme",
+      "slug",
+      "richTextDescriptionV2",
+      "uid",
+      "color",
+      "name",
+      "logo",
+      "description",
+      "brands",
+      "cityCoordinate",
+      "facebookPageUrl",
+      "photoGallery",
+      "labels",
+      "id",
+      "products",
+      "services",
+      "address"
+    ],
+    "filter": {
+      "entityIds": [
+        "front-page"
+      ],
+      "entityTypes": [
+        "location"
+      ]
+    },
+    "localization": {}
+  },
+  "fieldIndexes": [
+    {
+      "field": "uid"
+    },
+    {
+      "field": "slug"
+    }
+  ]
+}

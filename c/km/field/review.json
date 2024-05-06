@@ -1,0 +1,14 @@
+{
+  "$id": "c_review",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "review",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "c_review",
+      "maxLength": 5000
+    }
+  },
+  "typeId": "list"
+}

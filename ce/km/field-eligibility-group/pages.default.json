@@ -5,7 +5,6 @@
   "entityType": "ce_pages",
   "fields": [
     "bodyV2",
-    "c_blogList",
     "description",
     "keywords",
     "photoGallery",

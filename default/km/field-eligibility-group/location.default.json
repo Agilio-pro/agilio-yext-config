@@ -22,8 +22,7 @@
     "c_subServiceAreas",
     "c_termsAndCondition",
     "c_theme",
-    "c_trade",
-    "dm_directoryParents_location"
+    "c_trade"
   ],
   "required": []
 }

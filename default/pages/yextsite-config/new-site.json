@@ -8,6 +8,12 @@
     "autoStage": true,
     "autoPublish": false,
     "pullRequestsEnabled": false,
+    "envVars": [
+      {
+        "key": "YEXT_PUBLIC_GOOGLE_MAP_API_KEY",
+        "value": "AIzaSyANR1FGyPAwq23wsi5G2YN0Ro_mF79HrOc"
+      }
+    ],
     "stagingCredentials": {
       "password": "",
       "username": ""

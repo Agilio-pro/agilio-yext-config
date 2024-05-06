@@ -1,0 +1,35 @@
+{
+  "$id": "c_serviceOffering",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Service Offering",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "offerHeading",
+          "displayName": "Offer Heading",
+          "isRequired": true,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "offerDescription",
+          "displayName": "Offer Description",
+          "isRequired": true,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "MULTILINE",
+              "maxLength": 100000
+            }
+          }
+        }
+      ]
+    }
+  }
+}

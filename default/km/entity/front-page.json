@@ -1,0 +1,425 @@
+{
+  "$id": "front-page",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Grand",
+      "countryCode": "US",
+      "line1": "2816 emmett st",
+      "postalCode": "75051",
+      "region": "TX"
+    },
+    "addressHidden": false,
+    "c_backgroundColor": "WHITE",
+    "c_businessExperience": "10",
+    "c_copyrightText": "2024. All rights reserved.",
+    "c_coverPhoto": {
+      "height": 616,
+      "thumbnails": [
+        {
+          "height": 616,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+          "width": 1200
+        },
+        {
+          "height": 318,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
+          "width": 619
+        },
+        {
+          "height": 308,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
+          "width": 600
+        },
+        {
+          "height": 101,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+      "width": 1200
+    },
+    "c_coverPhotoDescription": "Heating and Cooling Service in the Austin, Texas Area",
+    "c_coverPhotoHeading": "Smart HVAC Keeps Your Home Comfortable.",
+    "c_footerLogo": {
+      "image": {
+        "height": 573,
+        "thumbnails": [
+          {
+            "height": 573,
+            "url": "http://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/672x573.png",
+            "width": 672
+          },
+          {
+            "height": 528,
+            "url": "http://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/619x528.png",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "http://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/528x450.png",
+            "width": 528
+          },
+          {
+            "height": 167,
+            "url": "http://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/196x167.png",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/3E1SRpKTSqnln-dhyO-2qmm6kaIN1cf_-h1jBolnAV8/672x573.png",
+        "width": 672
+      }
+    },
+    "c_review": [
+      {
+        "city": "Georgetown",
+        "comment": "A technician was at my house within an hour \u0026 my heater was quickly repaired. I am completely satisfied with the entire process.",
+        "reviewerLogo": {
+          "height": 316,
+          "thumbnails": [
+            {
+              "height": 316,
+              "url": "https://a.mktgcdn.com/p/kHWCVDXS9IGV1ir2BRHht6wDAjXvb8pisvJkZj6f2_o/310x316.png",
+              "width": 310
+            },
+            {
+              "height": 200,
+              "url": "https://a.mktgcdn.com/p/kHWCVDXS9IGV1ir2BRHht6wDAjXvb8pisvJkZj6f2_o/196x200.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/kHWCVDXS9IGV1ir2BRHht6wDAjXvb8pisvJkZj6f2_o/310x316.png",
+          "width": 310
+        },
+        "reviewerName": "Dustin Crawford",
+        "state": "Texas"
+      },
+      {
+        "city": "New Braunfels",
+        "comment": "Brandon and his team are great! Very professional and quick to come out and resolve your issues! Highly recommend!",
+        "reviewerLogo": {
+          "height": 316,
+          "thumbnails": [
+            {
+              "height": 316,
+              "url": "https://a.mktgcdn.com/p/9zdXuAxT92FWLDPLrxQqvT77bCQQXHvrTeAXqUnlXcA/312x316.png",
+              "width": 312
+            },
+            {
+              "height": 199,
+              "url": "https://a.mktgcdn.com/p/9zdXuAxT92FWLDPLrxQqvT77bCQQXHvrTeAXqUnlXcA/196x199.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/9zdXuAxT92FWLDPLrxQqvT77bCQQXHvrTeAXqUnlXcA/312x316.png",
+          "width": 312
+        },
+        "reviewerName": "Kamden Crawford",
+        "state": "Texas"
+      },
+      {
+        "city": "Grapevine",
+        "comment": "You cannot go wrong by calling Smart HVAC for all of your ac needs. I will never use anyone else.",
+        "reviewerLogo": {
+          "height": 317,
+          "thumbnails": [
+            {
+              "height": 317,
+              "url": "https://a.mktgcdn.com/p/NP0V7c5XgkGKuCrePtQCsWYHeJU8V2P3xU1BDbsw4do/313x317.png",
+              "width": 313
+            },
+            {
+              "height": 199,
+              "url": "https://a.mktgcdn.com/p/NP0V7c5XgkGKuCrePtQCsWYHeJU8V2P3xU1BDbsw4do/196x199.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/NP0V7c5XgkGKuCrePtQCsWYHeJU8V2P3xU1BDbsw4do/313x317.png",
+          "width": 313
+        },
+        "reviewerName": "Kaden Crawford",
+        "state": "Texas"
+      }
+    ],
+    "c_serviceArea": "Austin",
+    "c_serviceOfferings": [
+      {
+        "offerDescription": "Need air conditioning or heating service or maintenance? Interested in Duct Cleaning?",
+        "offerHeading": "HVAC Maintenance \u0026 Duct Cleaning"
+      },
+      {
+        "offerDescription": "Need to get your HVAC system repaired?",
+        "offerHeading": "HVAC Diagnostic and Repair"
+      },
+      {
+        "offerDescription": "Need a whole new system?",
+        "offerHeading": "HVAC Replacement"
+      }
+    ],
+    "c_subServiceAreas": [
+      "Georgetown",
+      "Leander",
+      "Cedar Park",
+      "Round Rock",
+      "Volente"
+    ],
+    "c_theme": "DEFAULT",
+    "c_trade": "Heating and Cooling",
+    "description": "Providing cooling and heating services to both residential and commercial clients.",
+    "emails": [
+      "services@test.com"
+    ],
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "saturday": {
+        "isClosed": true
+      },
+      "sunday": {
+        "isClosed": true
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "17:00",
+            "start": "09:00"
+          }
+        ]
+      }
+    },
+    "instagramHandle": "instagram",
+    "logo": {
+      "image": {
+        "height": 518,
+        "thumbnails": [
+          {
+            "height": 518,
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/518x518.png",
+            "width": 518
+          },
+          {
+            "height": 150,
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/150x150.png",
+            "width": 150
+          },
+          {
+            "height": 94,
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/94x94.png",
+            "width": 94
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/518x518.png",
+        "width": 518
+      }
+    },
+    "mainPhone": "+14692269642",
+    "name": "Smart HVAC",
+    "paymentOptions": [
+      "AMERICANEXPRESS",
+      "DISCOVER",
+      "MASTERCARD",
+      "VISA"
+    ],
+    "photoGallery": [
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "height": 616,
+          "thumbnails": [
+            {
+              "height": 616,
+              "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+              "width": 1200
+            },
+            {
+              "height": 318,
+              "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
+              "width": 619
+            },
+            {
+              "height": 308,
+              "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
+              "width": 600
+            },
+            {
+              "height": 101,
+              "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+          "width": 1200
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 878,
+          "thumbnails": [
+            {
+              "height": 878,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
+              "width": 1560
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
+          "width": 1560
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
+          "width": 1600
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 901,
+          "thumbnails": [
+            {
+              "height": 901,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
+              "width": 1600
+            },
+            {
+              "height": 349,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/619x349.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
+          "width": 1600
+        }
+      },
+      {
+        "description": "Lorem ipsum photo.",
+        "details": "Lorem ipsum photo.",
+        "image": {
+          "alternateText": "Lorem ipsum photo.",
+          "height": 900,
+          "thumbnails": [
+            {
+              "height": 900,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
+              "width": 1600
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
+          "width": 1600
+        }
+      }
+    ],
+    "services": [
+      "HVAC"
+    ],
+    "slug": "index.html",
+    "timezone": "America/Chicago",
+    "twitterHandle": "twitter"
+  },
+  "entityType": "location",
+  "labels": []
+}

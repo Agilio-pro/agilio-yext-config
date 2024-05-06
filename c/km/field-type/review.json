@@ -1,0 +1,71 @@
+{
+  "$id": "c_review",
+  "$schema": "https://schema.yext.com/config/km/field-type/v1",
+  "displayName": "Review",
+  "type": {
+    "structType": {
+      "property": [
+        {
+          "name": "reviewerLogo",
+          "displayName": "Reviewer Logo",
+          "isRequired": true,
+          "typeId": "image",
+          "type": {
+            "imageType": {
+              "isSimpleImage": true,
+              "unconstrainedAspectRatioAllowed": true
+            }
+          }
+        },
+        {
+          "name": "comment",
+          "displayName": "Comment",
+          "isRequired": true,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "reviewerName",
+          "displayName": "Reviewer Name",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "city",
+          "displayName": "City",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        },
+        {
+          "name": "state",
+          "displayName": "State",
+          "isRequired": false,
+          "typeId": "string",
+          "type": {
+            "stringType": {
+              "stereotype": "SIMPLE",
+              "maxLength": 100000
+            }
+          }
+        }
+      ]
+    }
+  }
+}
