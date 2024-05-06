@@ -5,13 +5,25 @@
   "entityType": "location",
   "fields": [
     "c_backgroundColor",
+    "c_businessExperience",
+    "c_cookiesSettings",
+    "c_copyrightText",
+    "c_coverPhoto",
+    "c_coverPhotoDescription",
+    "c_coverPhotoHeading",
     "c_footerLogo",
-    "c_frontPageServiceList",
-    "c_heroSection",
-    "c_navigation",
-    "c_ourMission",
-    "c_whatToExpect",
-    "c_whyChooseUs"
+    "c_liveOnPages",
+    "c_primaryColor",
+    "c_privacyPolicy",
+    "c_review",
+    "c_secondaryColor",
+    "c_serviceArea",
+    "c_serviceOfferings",
+    "c_subServiceAreas",
+    "c_termsAndCondition",
+    "c_theme",
+    "c_trade",
+    "dm_directoryParents_location"
   ],
   "required": []
 }

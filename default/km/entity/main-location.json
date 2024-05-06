@@ -12,6 +12,38 @@
     },
     "addressHidden": false,
     "c_backgroundColor": "WHITE",
+    "c_businessExperience": "10",
+    "c_cookiesSettings": "",
+    "c_copyrightText": "2024. All rights reserved.",
+    "c_coverPhoto": {
+      "height": 616,
+      "thumbnails": [
+        {
+          "height": 616,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+          "width": 1200
+        },
+        {
+          "height": 318,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
+          "width": 619
+        },
+        {
+          "height": 308,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
+          "width": 600
+        },
+        {
+          "height": 101,
+          "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
+          "width": 196
+        }
+      ],
+      "url": "http://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
+      "width": 1200
+    },
+    "c_coverPhotoDescription": "Heating and Cooling Service in the Austin, Texas Area",
+    "c_coverPhotoHeading": "Smart HVAC Keeps Your Home Comfortable.",
     "c_footerLogo": {
       "image": {
         "height": 573,
@@ -41,290 +73,137 @@
         "width": 672
       }
     },
-    "c_frontPageServiceList": [
-      "4599537718587752450"
-    ],
-    "c_heroSection": {
-      "markdown": "# Residential \u0026 Commercial HVAC Services\nWelcome to CEGA HVAC Services where we are committed to providing our customers with high-quality HVAC installation, repair and replacement services in Grand Prairie TX. We pride ourselves on our commitment to exceptional customer service, expert knowledge, and cutting-edge technology. Our team of skilled professionals ensures that your home or business stays comfortable and relaxed all year round. \n\nWe believe that our success is built on the trust and satisfaction of our customers. That’s why we are committed to providing reliable, affordable, and timely service whenever you call us. Thank you for choosing Arctic Air HVAC services company for all your HVAC solutions.\n\n[MORE ABOUT US](#)"
-    },
-    "c_navigation": [
+    "c_liveOnPages": "Yes",
+    "c_primaryColor":"#72bc76",
+    "c_privacyPolicy": "",
+    "c_review": [
       {
-        "label": "Home",
-        "uRL": "/"
+        "city": "Georgetown",
+        "comment": "A technician was at my house within an hour \u0026 my heater was quickly repaired. I am completely satisfied with the entire process.",
+        "reviewerLogo": {
+          "height": 324,
+          "sourceUrl": "https://a.mktgcdn.com/p/FBVhgRDJTe6Z9R0Cka0TxvZt2A-INntO0X1oxIgng0Q/512x512.png",
+          "thumbnails": [
+            {
+              "height": 324,
+              "url": "https://a.mktgcdn.com/p/CiB-6KkNtFHmH6qFUcu1iU_iTzP1f6xfX47EU4PEvgk/315x324.png",
+              "width": 315
+            },
+            {
+              "height": 202,
+              "url": "https://a.mktgcdn.com/p/CiB-6KkNtFHmH6qFUcu1iU_iTzP1f6xfX47EU4PEvgk/196x202.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/CiB-6KkNtFHmH6qFUcu1iU_iTzP1f6xfX47EU4PEvgk/315x324.png",
+          "width": 315
+        },
+        "reviewerName": "Dustin Crawford",
+        "state": "Texas"
       },
       {
-        "label": "Services",
-        "subItem": [
-          "4599537718587752450"
-        ],
-        "uRL": "#"
+        "city": "New Braunfels",
+        "comment": "Brandon and his team are great! Very professional and quick to come out and resolve your issues! Highly recommend!",
+        "reviewerLogo": {
+          "height": 317,
+          "thumbnails": [
+            {
+              "height": 317,
+              "url": "https://a.mktgcdn.com/p/NXxj426jUlMU1jI8JAkM4ESsjaD6hmOHUX5HxRwSxQU/312x317.png",
+              "width": 312
+            },
+            {
+              "height": 199,
+              "url": "https://a.mktgcdn.com/p/NXxj426jUlMU1jI8JAkM4ESsjaD6hmOHUX5HxRwSxQU/196x199.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/NXxj426jUlMU1jI8JAkM4ESsjaD6hmOHUX5HxRwSxQU/312x317.png",
+          "width": 312
+        },
+        "reviewerName": "Kamden Crawford",
+        "state": "Texas"
       },
       {
-        "label": "About Us",
-        "uRL": "about-us"
-      },
-      {
-        "label": "Blog",
-        "uRL": "blog"
+        "city": "Grapevine",
+        "comment": "You cannot go wrong by calling Smart HVAC for all of your ac needs. I will never use anyone else.",
+        "reviewerLogo": {
+          "height": 320,
+          "thumbnails": [
+            {
+              "height": 320,
+              "url": "https://a.mktgcdn.com/p/w0nbdSCMQKEqYS3rkylF5zYQYzKDn-Anoc5VyGhkts4/316x320.png",
+              "width": 316
+            },
+            {
+              "height": 198,
+              "url": "https://a.mktgcdn.com/p/w0nbdSCMQKEqYS3rkylF5zYQYzKDn-Anoc5VyGhkts4/196x198.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/w0nbdSCMQKEqYS3rkylF5zYQYzKDn-Anoc5VyGhkts4/316x320.png",
+          "width": 316
+        },
+        "reviewerName": "Kaden Crawford",
+        "state": "Texas"
       }
     ],
-    "c_ourMission": {
-      "markdown": "Our mission at CEGA HVAC Service company is to provide superior air conditioning and heating [services ](xyz.com) to our customers with a commitment to quality, innovation, and sustainability. As a team, we strive to create comfortable and energy-efficient indoor environments for homes and businesses across the region. We are dedicated to staying ahead of the curve in our industry, utilizing cutting-edge technology and methods to exceed our client’s expectations. Our highly-trained local HVAC contractors Grand Prairie TX work tirelessly to ensure that every job is completed with the utmost attention to detail and integrity. At our HVAC system Grand Prairie TX, we are proud to be a trusted partner in our community, delivering exceptional service with a focus on customer satisfaction."
-    },
-    "c_whatToExpect": {
-      "markdown": "At top HVAC company Grand Prairie TX, we strive to provide our customers with top-quality residential and commercial HVAC services. Including hvac installation, hvac repair, and, hvac replacement services Grand Prairie TX, our team of experienced technicians is dedicated to ensuring that your best HVAC system for home is running efficiently and effectively. We use only the latest technology and industry-leading techniques to diagnose and repair any issues with your air conditioning system. Our commitment to customer satisfaction means that we will work with you every step of the way to ensure that your needs are met. With our HVAC installation company, you can expect prompt and reliable air conditioning service that will keep you cool and comfortable, no matter the weather outside."
-    },
-    "c_whyChooseUs": {
-      "markdown": "At CEGA HVAC Service, we pride ourselves on delivering exceptional quality and service to our clients. Our highly skilled HVAC contractors Grand Prairie TX are committed to ensuring that your heating and cooling needs are met with the utmost care and attention to detail. We believe that our clients deserve nothing less than the best, and that’s why we use only the highest quality products and cutting-edge technology to keep your home or business comfortable all year round. With our extensive experience and industry-leading expertise, you can trust us to provide the reliable and efficient service you need. Choose Our air and heat company for all your hvac installation services in Grand Prairie TX and experience the difference we can make for you."
-    },
-    "description": "Providing cooling and heating services to both residential and commercial clients.",
-    "emails": [
-      "services@test.com"
-    ],
-    "hours": {
-      "friday": {
-        "openIntervals": [
-          {
-            "end": "17:00",
-            "start": "09:00"
-          }
-        ]
+    "c_secondaryColor":"#4ba94f",
+    "c_serviceArea": "Austin",
+    "c_serviceOfferings": [
+      {
+        "offerDescription": "Need air conditioning or heating service or maintenance? Interested in Duct Cleaning?",
+        "offerHeading": "HVAC Maintenance \u0026 Duct Cleaning"
       },
-      "monday": {
-        "openIntervals": [
-          {
-            "end": "17:00",
-            "start": "09:00"
-          }
-        ]
+      {
+        "offerDescription": "Need to get your HVAC system repaired?",
+        "offerHeading": "HVAC Diagnostic and Repair"
       },
-      "saturday": {
-        "isClosed": true
-      },
-      "sunday": {
-        "isClosed": true
-      },
-      "thursday": {
-        "openIntervals": [
-          {
-            "end": "17:00",
-            "start": "09:00"
-          }
-        ]
-      },
-      "tuesday": {
-        "openIntervals": [
-          {
-            "end": "17:00",
-            "start": "09:00"
-          }
-        ]
-      },
-      "wednesday": {
-        "openIntervals": [
-          {
-            "end": "17:00",
-            "start": "09:00"
-          }
-        ]
+      {
+        "offerDescription": "Need a whole new system?",
+        "offerHeading": "HVAC Replacement"
       }
-    },
+    ],
+    "c_subServiceAreas": [
+      "Georgetown",
+      "Leander",
+      "Cedar Park",
+      "Round Rock",
+      "Volente"
+    ],
+    "c_termsAndCondition": "",
+    "c_theme": "DEFAULT",
+    "c_trade": "Heating and Cooling",
     "instagramHandle": "instagram",
     "logo": {
-      "description": "${{location_name}}",
       "image": {
-        "alternateText": "logo",
-        "height": 848,
+        "height": 518,
         "thumbnails": [
           {
-            "height": 848,
-            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/848x848.jpg",
-            "width": 848
+            "height": 518,
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/518x518.png",
+            "width": 518
           },
           {
             "height": 150,
-            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/150x150.jpg",
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/150x150.png",
             "width": 150
           },
           {
             "height": 94,
-            "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/94x94.jpg",
+            "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/94x94.png",
             "width": 94
           }
         ],
-        "url": "https://a.mktgcdn.com/p/EzWCNN2SxugZxYN1PjKVwTvTGryJNcmKJJSN0W5NJf4/848x848.jpg",
-        "width": 848
+        "url": "https://a.mktgcdn.com/p/kOPRD6fh5csHuLs8F1SXiPvnRE3eE8XjVl-KxBrynJk/518x518.png",
+        "width": 518
       }
     },
+    "services": [
+      "HVAC"
+    ],
     "mainPhone": "+14692269642",
     "name": "${{location_name}}",
-    "paymentOptions": [
-      "AMERICANEXPRESS",
-      "DISCOVER",
-      "MASTERCARD",
-      "VISA"
-    ],
-    "photoGallery": [
-      {
-        "description": "Lorem ipsum photo.",
-        "details": "Lorem ipsum photo.",
-        "image": {
-          "height": 616,
-          "thumbnails": [
-            {
-              "height": 616,
-              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
-              "width": 1200
-            },
-            {
-              "height": 318,
-              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/619x318.jpg",
-              "width": 619
-            },
-            {
-              "height": 308,
-              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/600x308.jpg",
-              "width": 600
-            },
-            {
-              "height": 101,
-              "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/196x101.jpg",
-              "width": 196
-            }
-          ],
-          "url": "https://a.mktgcdn.com/p/QG2o-p0eIN3iVSZDpDEmnQxu8IXQq3q_1QFEko7AsOs/1200x616.jpg",
-          "width": 1200
-        }
-      },
-      {
-        "description": "Lorem ipsum photo.",
-        "details": "Lorem ipsum photo.",
-        "image": {
-          "alternateText": "Lorem ipsum photo.",
-          "height": 878,
-          "thumbnails": [
-            {
-              "height": 878,
-              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
-              "width": 1560
-            },
-            {
-              "height": 348,
-              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/619x348.jpg",
-              "width": 619
-            },
-            {
-              "height": 338,
-              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/600x338.jpg",
-              "width": 600
-            },
-            {
-              "height": 110,
-              "url": "http://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/196x110.jpg",
-              "width": 196
-            }
-          ],
-          "url": "https://a.mktgcdn.com/p/ldN8e6Xb-snsRXqH_z1S_6ru4sbu16N2s9V6uod6wV0/1560x878.jpg",
-          "width": 1560
-        }
-      },
-      {
-        "description": "Lorem ipsum photo.",
-        "details": "Lorem ipsum photo.",
-        "image": {
-          "alternateText": "Lorem ipsum photo.",
-          "height": 900,
-          "thumbnails": [
-            {
-              "height": 900,
-              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
-              "width": 1600
-            },
-            {
-              "height": 348,
-              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/619x348.jpg",
-              "width": 619
-            },
-            {
-              "height": 338,
-              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/600x338.jpg",
-              "width": 600
-            },
-            {
-              "height": 110,
-              "url": "http://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/196x110.jpg",
-              "width": 196
-            }
-          ],
-          "url": "https://a.mktgcdn.com/p/VclTppzhe8YEnBUPvdtyV5IwSBkBjGor_hXw4CqXznA/1600x900.jpg",
-          "width": 1600
-        }
-      },
-      {
-        "description": "Lorem ipsum photo.",
-        "details": "Lorem ipsum photo.",
-        "image": {
-          "alternateText": "Lorem ipsum photo.",
-          "height": 901,
-          "thumbnails": [
-            {
-              "height": 901,
-              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
-              "width": 1600
-            },
-            {
-              "height": 349,
-              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/619x349.jpg",
-              "width": 619
-            },
-            {
-              "height": 338,
-              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/600x338.jpg",
-              "width": 600
-            },
-            {
-              "height": 110,
-              "url": "http://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/196x110.jpg",
-              "width": 196
-            }
-          ],
-          "url": "https://a.mktgcdn.com/p/ZL6YpGYoyYKTIzbVsJvVe7fIyENM_mDI1YZLp5nRDJg/1600x901.jpg",
-          "width": 1600
-        }
-      },
-      {
-        "description": "Lorem ipsum photo.",
-        "details": "Lorem ipsum photo.",
-        "image": {
-          "alternateText": "Lorem ipsum photo.",
-          "height": 900,
-          "thumbnails": [
-            {
-              "height": 900,
-              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
-              "width": 1600
-            },
-            {
-              "height": 348,
-              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/619x348.jpg",
-              "width": 619
-            },
-            {
-              "height": 338,
-              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/600x338.jpg",
-              "width": 600
-            },
-            {
-              "height": 110,
-              "url": "http://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/196x110.jpg",
-              "width": 196
-            }
-          ],
-          "url": "https://a.mktgcdn.com/p/8CoFil65sDsYg-BkGHwAQctfnU59_lVtOs2y6vWnhvs/1600x900.jpg",
-          "width": 1600
-        }
-      }
-    ],
     "slug": "index.html",
     "timezone": "America/Chicago",
     "twitterHandle": "twitter"

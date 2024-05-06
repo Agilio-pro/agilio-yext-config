@@ -20,10 +20,6 @@
       "disabled": true
     },
     {
-      "entityType": "faq",
-      "disabled": false
-    },
-    {
       "entityType": "healthcareFacility",
       "disabled": true
     },
@@ -56,23 +52,8 @@
       "disabled": false
     },
     {
-      "entityType": "ce_pages",
-      "defaultFieldEligibilityGroup": "ce_pages.default",
-      "disabled": false
-    },
-    {
       "entityType": "financialProfessional",
       "disabled": true
-    },
-    {
-      "entityType": "ce_services",
-      "defaultFieldEligibilityGroup": "ce_services.default",
-      "disabled": false
-    },
-    {
-      "entityType": "ce_blog",
-      "defaultFieldEligibilityGroup": "ce_blog.default",
-      "disabled": false
     }
   ]
 }
