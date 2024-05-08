@@ -57,40 +57,49 @@
           "id": "hours"
         },
         {
-          "id": "additionalHoursText"
+          "id": "c_businessExperience"
         },
         {
-          "id": "phoneticName"
+          "id": "c_cookiesSettings"
         },
         {
-          "id": "paymentOptions"
+          "id": "c_copyrightText"
         },
         {
-          "id": "priceRange"
+          "id": "c_coverPhoto"
         },
         {
-          "id": "geomodifier"
+          "id": "c_coverPhotoDescription"
         },
         {
-          "id": "pickupAndDeliveryServices"
+          "id": "c_coverPhotoHeading"
         },
         {
-          "id": "neighborhood"
+          "id": "c_primaryColor"
         },
         {
-          "id": "what3WordsAddress"
+          "id": "c_privacyPolicy"
         },
         {
-          "id": "covidMessaging"
+          "id": "c_review"
         },
         {
-          "id": "proofOfVaccinationRequired"
+          "id": "c_secondaryColor"
         },
         {
-          "id": "fullyVaccinatedStaff"
+          "id": "c_serviceArea"
         },
         {
-          "id": "featuredMessage"
+          "id": "c_serviceOfferings"
+        },
+        {
+          "id": "c_subServiceAreas"
+        },
+        {
+          "id": "c_termsAndCondition"
+        },
+        {
+          "id": "c_trade"
         }
       ]
     },
@@ -157,12 +166,6 @@
       "fields": [
         {
           "id": "logo"
-        },
-        {
-          "id": "photoGallery"
-        },
-        {
-          "id": "videos"
         }
       ]
     },
@@ -182,6 +185,9 @@
         },
         {
           "id": "linkedInUrl"
+        },
+        {
+          "id": "youTubeChannelUrl"
         }
       ]
     },

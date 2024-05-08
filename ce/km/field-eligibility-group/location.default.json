@@ -1,0 +1,28 @@
+{
+    "$id": "location.default",
+    "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+    "name": "Location-default",
+    "entityType": "location",
+    "fields": [
+      "c_backgroundColor",
+      "c_businessExperience",
+      "c_cookiesSettings",
+      "c_copyrightText",
+      "c_coverPhoto",
+      "c_coverPhotoDescription",
+      "c_coverPhotoHeading",
+      "c_footerLogo",
+      "c_liveOnPages",
+      "c_primaryColor",
+      "c_privacyPolicy",
+      "c_review",
+      "c_secondaryColor",
+      "c_serviceArea",
+      "c_serviceOfferings",
+      "c_subServiceAreas",
+      "c_termsAndCondition",
+      "c_theme",
+      "c_trade"
+    ],
+    "required": []
+  }

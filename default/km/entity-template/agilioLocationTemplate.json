@@ -1,9 +1,0 @@
-{
-    "$id": "agilioLocationTemplate",
-    "$schema": "https://schema.yext.com/config/km/entity-template/v2",
-    "entityTypes": [
-      "location"
-    ],
-    "localeCode": "en",
-    "name": "Agilio Location Template"
-  }
