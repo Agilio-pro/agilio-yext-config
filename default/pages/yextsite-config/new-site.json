@@ -21,15 +21,15 @@
   },
   "branches": [
     {
-      "name": "master",
+      "name": "${{branch}}",
       "envVars": [
         {
           "key": "YEXT_PUBLIC_LOCATION_ENTITY_ID",
-          "value": "front-page"
+          "value": "${{location_entity_id}}"
         },
         {
           "key": "YEXT_PUBLIC_LOCATION_LOCALE_CODE",
-          "value": "en"
+          "value": "${{location_locale_code}}"
         }
       ],
       "isProductionBranch": true,

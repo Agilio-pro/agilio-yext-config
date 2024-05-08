@@ -4,11 +4,11 @@
   "primaryLocale": "en",
   "content": {
     "address": {
-      "city": "Grand",
-      "countryCode": "US",
-      "line1": "2816 emmett st",
-      "postalCode": "75051",
-      "region": "TX"
+      "city": "${{location_address_city}}",
+      "countryCode": "${{location_country_code}}",
+      "line1": "${{location_address_line1}}",
+      "postalCode": "${{location_address_postal_code}}",
+      "region": "${{location_address_region}}"
     },
     "addressHidden": false,
     "c_backgroundColor": "WHITE",
@@ -245,7 +245,7 @@
       }
     },
     "mainPhone": "+14692269642",
-    "name": "Smart HVAC",
+    "name": "${{location_name}}",
     "paymentOptions": [
       "AMERICANEXPRESS",
       "DISCOVER",
