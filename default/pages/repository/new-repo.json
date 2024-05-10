@@ -1,5 +1,0 @@
-{
-  "$id": "${{repo_id}}",
-  "$schema": "https://schema.yext.com/config/pages/repository/v1",
-  "repoUrl": "github.com/Agilio-pro/agilio-pro"
-}
