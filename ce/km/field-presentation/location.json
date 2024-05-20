@@ -54,9 +54,6 @@
           "id": "description"
         },
         {
-          "id": "hours"
-        },
-        {
           "id": "c_businessExperience"
         },
         {
@@ -75,6 +72,24 @@
           "id": "c_coverPhotoHeading"
         },
         {
+          "id": "c_financeDescription"
+        },
+        {
+          "id": "c_financeOffer"
+        },
+        {
+          "id": "c_financeOfferAvailable"
+        },
+        {
+          "id": "c_financeSectionHeading"
+        },
+        {
+          "id": "c_financeSectionImage"
+        },
+        {
+          "id": "c_formId"
+        },
+        {
           "id": "c_primaryColor"
         },
         {
@@ -91,6 +106,9 @@
         },
         {
           "id": "c_serviceOfferings"
+        },
+        {
+          "id": "c_showLanguageText"
         },
         {
           "id": "c_subServiceAreas"

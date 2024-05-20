@@ -43,6 +43,40 @@
     },
     "c_coverPhotoDescription": "Heating and Cooling Service in the Austin, Texas Area",
     "c_coverPhotoHeading": "Smart HVAC Keeps Your Home Comfortable.",
+    "c_financeDescription": "Test data as description",
+    "c_financeOffer": {
+      "markdown": "**Lorem Ipsum **is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\u0027s standard dummy text ever since the 1500s,\n\n- Lorem ipsum\n- Lorem ipsum\n- Lorem ipsum"
+    },
+    "c_financeOfferAvailable": true,
+    "c_financeSectionHeading": "Lorem Ipsum",
+    "c_financeSectionImage": {
+      "height": 313,
+      "sourceUrl": "https://img.lovepik.com/background/20211021/large/lovepik-blue-banner-background-image_500452484.jpg",
+      "thumbnails": [
+        {
+          "height": 313,
+          "url": "https://a.mktgcdn.com/p/rwn__MzX2wZ3fmS7MWNq5XuQO5Hz1VLzi5ZnLkLYPUQ/1200x313.jpg",
+          "width": 1200
+        },
+        {
+          "height": 161,
+          "url": "https://a.mktgcdn.com/p/rwn__MzX2wZ3fmS7MWNq5XuQO5Hz1VLzi5ZnLkLYPUQ/619x161.jpg",
+          "width": 619
+        },
+        {
+          "height": 157,
+          "url": "https://a.mktgcdn.com/p/rwn__MzX2wZ3fmS7MWNq5XuQO5Hz1VLzi5ZnLkLYPUQ/600x157.jpg",
+          "width": 600
+        },
+        {
+          "height": 51,
+          "url": "https://a.mktgcdn.com/p/rwn__MzX2wZ3fmS7MWNq5XuQO5Hz1VLzi5ZnLkLYPUQ/196x51.jpg",
+          "width": 196
+        }
+      ],
+      "url": "https://a.mktgcdn.com/p/rwn__MzX2wZ3fmS7MWNq5XuQO5Hz1VLzi5ZnLkLYPUQ/1200x313.jpg",
+      "width": 1200
+    },
     "c_footerLogo": {
       "image": {
         "height": 573,
@@ -72,6 +106,8 @@
         "width": 672
       }
     },
+    "c_formId": "bf3d5ec5-ea34-4d75-b38b-4ac52418081d",
+    "c_primaryColor": "#72bc76",
     "c_review": [
       {
         "city": "Georgetown",
@@ -143,6 +179,7 @@
         "state": "Texas"
       }
     ],
+    "c_secondaryColor": "#cfe7d0",
     "c_serviceArea": "Austin",
     "c_serviceOfferings": [
       {
@@ -158,6 +195,7 @@
         "offerHeading": "HVAC Replacement"
       }
     ],
+    "c_showLanguageText": false,
     "c_subServiceAreas": [
       "Georgetown",
       "Leander",

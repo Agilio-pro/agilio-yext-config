@@ -1,0 +1,25 @@
+{
+  "$id": "c_favIcon",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "upload only png and ico image",
+  "displayName": "Fav icon",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "imageType": {
+      "isSimpleImage": true,
+      "minSize": {
+        "width": 512,
+        "height": 512
+      },
+      "allowedAspectRatio": [
+        {
+          "horizontalFactor": 1,
+          "verticalFactor": 1
+        }
+      ],
+      "unconstrainedAspectRatioAllowed": false
+    }
+  },
+  "typeId": "image"
+}

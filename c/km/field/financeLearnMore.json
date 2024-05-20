@@ -1,0 +1,14 @@
+{
+  "$id": "c_financeLearnMore",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Finance Learn More",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}
