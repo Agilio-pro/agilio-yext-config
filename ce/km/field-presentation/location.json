@@ -72,7 +72,13 @@
           "id": "c_coverPhotoHeading"
         },
         {
+          "id": "c_favIcon"
+        },
+        {
           "id": "c_financeDescription"
+        },
+        {
+          "id": "c_financeLearnMore"
         },
         {
           "id": "c_financeOffer"
@@ -97,6 +103,9 @@
         },
         {
           "id": "c_review"
+        },
+        {
+          "id": "c_reviewLink"
         },
         {
           "id": "c_secondaryColor"
